@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <graphics.cpp>    //will create these files soon :D
+#include <graphics.h>
 #include <interface.cpp>
 #define XRES 100
 #define YRES 100
