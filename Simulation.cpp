@@ -31,7 +31,7 @@ int Simulation::Update
   int i;
   for(i = 0; i < NUM; i++)
   {
-    //update function will be filled out soon
+    parts[i] = drawnParticle;
   }
 }
 
